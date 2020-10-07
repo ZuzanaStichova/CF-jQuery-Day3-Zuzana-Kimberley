@@ -1,56 +1,56 @@
 var data = `[{
-    "name": "",
-    "price": "",
-    "description": "",
+    "name": "MacBook",
+    "price": "$199",
+    "description": "New MacBook available now",
     "quantity": "10",
-    "image": ""
+    "image": "notebook_apple.png"
 },
 {
-    "name": "",
-    "price": "",
-    "description": "",
+    "name": "Samsung Notebook 7",
+    "price": "$50",
+    "description": "New Samsung available now",
     "quantity": "20",
-    "image": ""
+    "image": "notebook_samsung.png"
 },
 {
-    "name": "",
-    "price": "",
-    "description": "",
+    "name": "Iphone 7",
+    "price": "$299",
+    "description": "Why spend less and get a MacBook when you can spend more and get an Iphone?",
     "quantity": "30",
-    "image": ""
+    "image": "phone_iphone.png"
 },
 {
-    "name": "",
-    "price": "",
-    "description": "",
+    "name": "Samsung Galaxy x7",
+    "price": "$1000",
+    "description": "You can spend even more money and get a Galaxy!",
     "quantity": "40",
-    "image": ""
+    "image": "phone_samsung.png"
 },
 {
-    "name": "",
-    "price": "",
-    "description": "",
+    "name": "iPad",
+    "price": "$1000",
+    "description": "I have no idea why the prices are going up, but they are!",
     "quantity": "50",
-    "image": ""
+    "image": "tablet_ipad.png"
 },
 {
-    "name": "",
-    "price": "",
-    "description": "",
+    "name": "Samsung Tablet",
+    "price": "$1000",
+    "description": "Samsung tablet on sale for $1000",
     "quantity": "60",
-    "image": ""
+    "image": "tablet_samsung.png"
 },
 {
-    "name": "",
-    "price": "",
-    "description": "",
+    "name": "Samsung Phone NEW 7",
+    "price": "$50",
+    "description": "This phone is a steal at only $50!",
     "quantity": "60",
-    "image": ""
+    "image": "phone_samsung.png"
 },
 {
-    "name": "",
-    "price": "",
-    "description": "",
+    "name": "Samsung Tablet NEW 7",
+    "price": "$50",
+    "description": "Who needs to spend $1000 when you can spend $50?",
     "quantity": "60",
-    "image": ""
+    "image": "tablet_samsung.png"
 }]`
