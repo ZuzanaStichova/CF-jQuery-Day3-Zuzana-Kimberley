@@ -1,0 +1,56 @@
+var data = `[{
+    "name": "",
+    "price": "",
+    "description": "",
+    "quantity": "10",
+    "image": ""
+},
+{
+    "name": "",
+    "price": "",
+    "description": "",
+    "quantity": "20",
+    "image": ""
+},
+{
+    "name": "",
+    "price": "",
+    "description": "",
+    "quantity": "30",
+    "image": ""
+},
+{
+    "name": "",
+    "price": "",
+    "description": "",
+    "quantity": "40",
+    "image": ""
+},
+{
+    "name": "",
+    "price": "",
+    "description": "",
+    "quantity": "50",
+    "image": ""
+},
+{
+    "name": "",
+    "price": "",
+    "description": "",
+    "quantity": "60",
+    "image": ""
+},
+{
+    "name": "",
+    "price": "",
+    "description": "",
+    "quantity": "60",
+    "image": ""
+},
+{
+    "name": "",
+    "price": "",
+    "description": "",
+    "quantity": "60",
+    "image": ""
+}]`
